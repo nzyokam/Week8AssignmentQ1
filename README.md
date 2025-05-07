@@ -1,5 +1,5 @@
 # Naivas Inventory Management System
-
+## PROJECT BY MUUSI NGUUTU NZYOKA
 ## 📦 Description
 
 The **Naivas Inventory Management System** is a relational database designed to streamline inventory tracking, product categorization, supplier coordination, employee management, and stock purchasing across multiple branches of the Naivas supermarket chain in Kenya. It supports efficient stock control, vendor accountability, and reporting across diverse product categories.
